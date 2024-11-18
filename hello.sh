@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Happy Birthday Bhavin"
+echo "redacted"
 
